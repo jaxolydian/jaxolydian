@@ -1,4 +1,4 @@
-# @jaxolydian @jaxolydian @jaxolydian
+# @jaxolydian
 ---
 - 🌱 I'm currently learning Java
 - 👀 I’m interested in learning Python again sometime
